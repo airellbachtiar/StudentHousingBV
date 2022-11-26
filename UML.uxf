@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <help_text>&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;820&lt;/x&gt;&lt;y&gt;670&lt;/y&gt;&lt;w&gt;200&lt;/w&gt;&lt;h&gt;90&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;10;180;70&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1660&lt;/x&gt;&lt;y&gt;680&lt;/y&gt;&lt;w&gt;160&lt;/w&gt;&lt;h&gt;30&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;140;10;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1660&lt;/x&gt;&lt;y&gt;680&lt;/y&gt;&lt;w&gt;160&lt;/w&gt;&lt;h&gt;30&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;140;10;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;830&lt;/x&gt;&lt;y&gt;210&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;439&lt;/x&gt;&lt;y&gt;1732&lt;/y&gt;&lt;w&gt;110&lt;/w&gt;&lt;h&gt;100&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;
+strikeCategory
+--
+Misconduct
+Noise
+Other&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;0&lt;/x&gt;&lt;y&gt;1770&lt;/y&gt;&lt;w&gt;210&lt;/w&gt;&lt;h&gt;190&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;House
+--
+
+--
+&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;660&lt;/x&gt;&lt;y&gt;958&lt;/y&gt;&lt;w&gt;110&lt;/w&gt;&lt;h&gt;100&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;
+complaintCategory
+--
+Misconduct
+Broken
+Noise
+Other&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;60&lt;/x&gt;&lt;y&gt;1200&lt;/y&gt;&lt;w&gt;320&lt;/w&gt;&lt;h&gt;170&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;User
+--
+_-currentID: int_
+--
++name{get; set;}: string
++userID{get;}: int
++password{get; set;}: string
++displayName{get; set;}: string
++User(name: string, password: string)
++CheckLogin(displayName: string, password: string): bool
++Equals(user: User): bool
++changeName(newName: string): bool&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;UMLClass&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;666&lt;/x&gt;&lt;y&gt;206&lt;/y&gt;&lt;w&gt;110&lt;/w&gt;&lt;h&gt;120&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;&amp;lt;&amp;lt;enumeration&amp;gt;&amp;gt;
+SchedulerCategory
+--
+Cleaning
+Cooking
+Party
+Repair
+Other&lt;/panel_attributes&gt;&lt;additional_attributes&gt;&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;Space for diagram notes&lt;diagram program="umletino" version="14.4.0-SNAPSHOT"&gt;&lt;zoom_level&gt;10&lt;/zoom_level&gt;&lt;element&gt;&lt;id&gt;Relation&lt;/id&gt;&lt;coordinates&gt;&lt;x&gt;1107&lt;/x&gt;&lt;y&gt;180&lt;/y&gt;&lt;w&gt;30&lt;/w&gt;&lt;h&gt;110&lt;/h&gt;&lt;/coordinates&gt;&lt;panel_attributes&gt;lt=&amp;lt;-&lt;/panel_attributes&gt;&lt;additional_attributes&gt;10;90;10;10&lt;/additional_attributes&gt;&lt;/element&gt;&lt;/diagram&gt;</help_text>
+  <zoom_level>11</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>957</x>
+      <y>407</y>
+      <w>1254</w>
+      <h>231</h>
+    </coordinates>
+    <panel_attributes>Scheduler
+--
+
+--
++DateFormat{get;}: string
++reservations{get; set;}: List&lt;Reservation&gt;
++AddReservation(schedulerDate: DateTime, user: User, schedulerCategory: SchedulerCategory, schedulerDesciption: string, house: House, roomName: RoomType, duration: int): int
++RemoveReservation(id: int)
++RemoveCheck(id: int, loggedUser: User, house: House): bool
+-CheckStrikes(amount: int, schedulerCategory: SchedulerCategory): bool
+-IsAvailable(date: DateTime, room: Room, duration: int): bool
+-CheckCategory(chosenRoom: Room, schedulerCategory: SchedulerCategory): bool
++GetReservation(id: int): Reservation
++Refresh()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>814</x>
+      <y>11</y>
+      <w>825</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Reservation
+--
+_-currentID: int_
+--
++room{get; set;}: Room
++date{get; set;}: DateTime
++duration{get; set;}: int
++user{get; set;}: User
++category{get; set;}: SchedulerCategory
++description{get; set;}: string
++id{get; set; }: int
++status{get; set;}: string
++Reservation(room: Room, date: DateTime, user: User, category: SchedulerCategory, description: string, duration: int)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1045</x>
+      <y>880</y>
+      <w>572</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;static&gt;&gt;
+Tracker
+--
+
+--
+//+items{get;}: List&lt;Item&gt;
+//+addItem(item: Item)
+//-checkDuplicate(item: Item): bool
+//+removeItem(item: Item)
+_+UpdateBalance(money: double, buyer: Student, house: House)_
+_+GetStudentsNeedToPay(itemOwner: Student, users: List&lt;User&gt;): List&lt;Student&gt;_
+_+PayUser(payer: Student, money: double, userToPay: Student): bool_
+_+CreateItemLVI(item: Item, student: Student): ListViewItem_</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1067</x>
+      <y>660</y>
+      <w>451</w>
+      <h>187</h>
+    </coordinates>
+    <panel_attributes>Item
+--
+_-currentID: int_
+--
++name{get; set;}: string
++price{get; set;}: double
++id{get;}: int
++amount{get; set;}: int
++studentNeedToPay{get;set;}: List&lt;Student&gt;
++Item(name: string, price: double, amount: int, student: Student)
+-UpId: int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1716</x>
+      <y>22</y>
+      <w>154</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;enumeration&gt;&gt;
+SchedulerCategory
+--
+Cleaning
+Cooking
+Party
+Repair
+Other</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1419</x>
+      <y>1177</y>
+      <w>495</w>
+      <h>176</h>
+    </coordinates>
+    <panel_attributes>Report
+--
+
+--
++complaints{get; set;}: List&lt;Complaint&gt;
++AddComplaint(complaint: Complaint): bool
+-CheckComplaint(complaint: Complaint): bool
++RemoveComplaint(complaint: Complaint)
++GetComplaint(id: int): Complaint
++ComplaintVisibility(complaint: Complaint, loggedUser: Student): bool
+//+createComplaint(comment: string, category: complaintCategory, anonymous: bool, student: Student, targetStudentName: string, house: House): Complaint</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>209</x>
+      <y>1155</y>
+      <w>143</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;enumeration&gt;&gt;
+complaintCategory
+--
+Misconduct
+Broken
+Noise
+Other</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>429</x>
+      <y>1144</y>
+      <w>836</w>
+      <h>231</h>
+    </coordinates>
+    <panel_attributes>Complaint
+--
+_-currentID: int_
+--
++comment{get; set;}: string
++category{get; set;}: complaintCategory
++id{get;}: int
++anonymous{get; set;}: bool
++student{get; set;}: Student
++targetStudent{get; set;}: Student
++type{get; set;}: char
++Complaint(comment: string, category: complaintCategory, anonymous: bool, student: Student)
++Complaint(comment: string, category: complaintCategory, anonymous: bool, student: Student, targerStudent: Student)
+-UpId: int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>77</x>
+      <y>748</y>
+      <w>352</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>User
+--
+_-currentID: int_
+--
++name{get; set;}: string
++userID{get;}: int
++password{get; set;}: string
++displayName{get; set;}: string
++User(name: string, password: string)
++CheckLogin(displayName: string, password: string): bool
++Equals(user: User): bool
++IsStudent(): bool
++ChangeName(newName: string): bool</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>583</x>
+      <y>704</y>
+      <w>374</w>
+      <h>308</h>
+    </coordinates>
+    <panel_attributes>Student
+--
+
+--
++balance{get; set;}: double
++totalItemPrices{get; set;}: double
++roomId{get; set;}: int
++items{get;}: List&lt;Item&gt;
++strikes{get;}: List&lt;Strike&gt;
++Student(name: string, password: string, roomId: int)
++AddStrike(strike: Strike)
++RemoveStrike(strike: Strike)
++GetStrike(id: int): Strike
++AddItem(item: Item)
+-CheckDuplicateItem(item: Item): bool
++RemoveItem(item: Item)
++GetItem(id: int)
++UpdateTotalPrices()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>198</x>
+      <y>1023</y>
+      <w>352</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>Admin
+--
+
+--
++Admin(name: string, password: string)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>506</x>
+      <y>429</y>
+      <w>231</w>
+      <h>176</h>
+    </coordinates>
+    <panel_attributes>Strike
+--
+
+--
++student{get;}: Student
++category{get; set;}: strikeCategory
++description{get; set;}: strike
++id{get;}: int
++Strike(category: strikeCategory, description: string, student: Student)
+-UpId()
++GetInfo(): string</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>385</y>
+      <w>253</w>
+      <h>253</h>
+    </coordinates>
+    <panel_attributes>House
+--
+
+--
++rooms{get;}: List&lt;Room&gt;
++users{get;}: List&lt;User&gt;
++deactivatesStudents{get;}: List&lt;Student&gt;
++numOfStudents{get; set;}
++AddUser(user: User)
++RemoverUser(student: Student)
++AddRoom(room: Room)
++GetStudent(displayName: string)
++GetRoom(roomName: RoomType)
++GetRoom(roomId: int)
++AvailableBedroom(): List&lt;Room&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>561</x>
+      <y>275</y>
+      <w>121</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;enumeration&gt;&gt;
+strikeCategory
+--
+Misconduct
+Noise
+Other</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>88</x>
+      <y>0</y>
+      <w>231</w>
+      <h>231</h>
+    </coordinates>
+    <panel_attributes>Room
+--
+
+--
++id{get;}: int
++name{get;}: RoomType
++isReserveable{get;}: bool
++isOccupied{get; set;}: bool
++allowedCategory{get; set;}: List&lt;SchedulerCategory&gt;
++Room(name: RoomType, schedulerCategory: SchedulerCategory)
++Room(name: RoomType)
+-UpId(): int
++Equals(room: Room)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>561</x>
+      <y>121</y>
+      <w>121</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;enumeration&gt;&gt;
+RoomType
+--
+Bedroom
+Kitchen
+Livingroom
+Bathroom
+Toilet</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1408</x>
+      <y>220</y>
+      <w>55</w>
+      <h>209</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=0..*
+has</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1254</x>
+      <y>1254</y>
+      <w>187</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=0..*
+has</panel_attributes>
+    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>418</x>
+      <y>880</y>
+      <w>187</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;150.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>341</x>
+      <y>957</y>
+      <w>33</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>605</x>
+      <y>594</y>
+      <w>55</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+has
+m1=0..*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>143</x>
+      <y>220</y>
+      <w>55</w>
+      <h>187</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1..*
+has</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>143</x>
+      <y>627</y>
+      <w>88</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1..*
+contains</panel_attributes>
+    <additional_attributes>10.0;110.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>869</x>
+      <y>220</y>
+      <w>88</w>
+      <h>506</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+contains</panel_attributes>
+    <additional_attributes>10.0;440.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>308</x>
+      <y>77</y>
+      <w>528</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+has</panel_attributes>
+    <additional_attributes>10.0;20.0;460.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>748</x>
+      <y>1001</y>
+      <w>55</w>
+      <h>165</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1..2
+has
+m2=0..*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>946</x>
+      <y>748</y>
+      <w>143</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=0..*
+has</panel_attributes>
+    <additional_attributes>110.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1628</x>
+      <y>99</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;..</panel_attributes>
+    <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>308</x>
+      <y>176</y>
+      <w>275</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;..</panel_attributes>
+    <additional_attributes>230.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>341</x>
+      <y>1221</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;..</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>594</x>
+      <y>363</y>
+      <w>33</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;..</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>275</x>
+      <y>220</y>
+      <w>55</w>
+      <h>550</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+has</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;480.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1815</x>
+      <y>902</y>
+      <w>220</w>
+      <h>55</h>
+    </coordinates>
+    <panel_attributes>LoginForm
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1848</x>
+      <y>946</y>
+      <w>33</w>
+      <h>253</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;210.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>22</x>
+      <y>627</y>
+      <w>2002</w>
+      <h>792</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;700.0;1800.0;700.0;1800.0;300.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1903</x>
+      <y>627</y>
+      <w>33</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;250.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1606</x>
+      <y>924</y>
+      <w>231</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;190.0;10.0</additional_attributes>
+  </element>
+</diagram>
